@@ -1,0 +1,15 @@
+exe command:
+
+mode: train
+modelOptimizer: crf.adf
+rate0: 0.05
+regs: 1
+random: 0
+evalMetric: tok.acc
+trainSizeScale: 1
+ttlIter: 2
+nUpdate: 10
+outFolder: out
+miniBatch: 1
+upper: 0.995
+lower: 0.6

@@ -1,0 +1,6 @@
+J:\恢复的同步数据\代码\ldcrf.csh\web release\CRF-ADF v1.02\bin\Debug\run.exe.config
+J:\恢复的同步数据\代码\ldcrf.csh\web release\CRF-ADF v1.02\bin\Debug\run.exe
+J:\恢复的同步数据\代码\ldcrf.csh\web release\CRF-ADF v1.02\bin\Debug\run.pdb
+J:\恢复的同步数据\代码\ldcrf.csh\web release\CRF-ADF v1.02\obj\Debug\ResolveAssemblyReference.cache
+J:\恢复的同步数据\代码\ldcrf.csh\web release\CRF-ADF v1.02\obj\Debug\run.exe
+J:\恢复的同步数据\代码\ldcrf.csh\web release\CRF-ADF v1.02\obj\Debug\run.pdb
