@@ -1,5 +1,5 @@
 # CRF-ADF Sequential Tagging Toolkit v1.0
-This is a general purpose software for sequential tagging (or called sequential labelling, linear-chain structured classification). The CRF (Conditional Random Fields) model is described in (Lafferty et al., 2001) and the ADF (Adaptive stochastic gradient Decent based on Feature-frequency information) fast training algorithm is described in (Sun et al., ACL 2012). 
+This is a general purpose software for sequential tagging (or called sequential labelling, linear-chain structured classification). The CRF (Conditional Random Fields) model is described in (Lafferty et al., 2001) and the ADF (Adaptive stochastic gradient Decent based on Feature-frequency information) fast training algorithm is described in (Sun et al., ACL 2012). [[Tutorial]](CA.tu.pdf)
 
 Main features:
 
